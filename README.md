@@ -1,4 +1,4 @@
-#ECE-2112-PA-3
+# ECE-2112-PA-3
 
 Created by: Raphael Luis L. Bachoco | 2ECE-D
 
@@ -113,4 +113,5 @@ selected_cars = before_selected_cars.loc[(before_selected_cars['Model'] == 'Dats
 
 ## History
 - September 8, 2026 - Created README.md
-- September 9, 2026 - Updated README.md, Uploaded Solutions For PA3 
+- September 9, 2026 - Updated README.md, Uploaded Solutions For PA3
+- September 10, 2026 - Updated PA3 Solutions
